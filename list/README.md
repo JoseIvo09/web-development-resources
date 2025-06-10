@@ -1,10 +1,10 @@
-# Recursos incríveis de desenvolvimento da web ![Awesome][awesome-badge]
+# Recursos incríveis de desenvolvimento web! [Awesome][awesome-badge]
 
-Este é um projeto incrível sobre recursos de desenvolvimento da web. ⚡
+Este é um projeto incrível sobre recursos de desenvolvimento web. ⚡
 
 Os recursos são adicionados com frequência! ⚡
 
-Aproveitar! :)
+Aproveite! :)
 
 Se você gosta deste repositório, não se esqueça de.
 
@@ -16,12 +16,12 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 
 ## Índice
 
-- [Recursos incríveis de desenvolvimento da web](#awesome-web-development-resources-)
+- [Recursos incríveis de desenvolvimento web](#awesome-web-development-resources-)
   - [Índice](#table-of-contents)
   - [Hospedagem:](#hosting)
-  - [Plataformas de aprendizado:](#learning-platforms)
+  - [Plataformas de aprendizagem:](#learning-platforms)
   - [Plataformas de desafio de codificação:](#coding-challenge-platforms)
-  - [Plataformas freelancers:](#freelancing-platforms)
+  - [Plataformas de freelancers:](#freelancing-platforms)
   - [Trabalhos remotos:](#remote-jobs)
   - [Fotos:](#photos)
   - [Vídeos:](#videos)
@@ -36,7 +36,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
   - [Documentos:](#docs)
   - [Bibliotecas de animação:](#animation-libraries)
   - [Gráficos:](#charts)
-  - [Extensões Chrome:](#chrome-extensions)
+  - [Extensões do Chrome:](#chrome-extensions)
   - [Ferramentas de otimização de sites:](#website-optimization-tools)
   - [Modelos HTML/CSS/JavaScript:](#htmlcssjavascript-templates)
   - [Boletins:](#newsletters)
@@ -47,8 +47,8 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
   - [Bibliotecas de interface do usuário da VUE:](#vue-ui-libraries)
   - [Reactar as bibliotecas da interface do usuário:](#react-ui-libraries)
   - [Bibliotecas de interface do usuário angular:](#angular-ui-libraries)
-  - [Sustentabilidade:](#sustainability)
-  - [Outros:](#others)
+- [Sustentabilidade:](#sustainability)
+- [Outros:](#others)
 
 ## Hospedagem:
 
@@ -57,26 +57,26 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://netlify.com | ** Netlify ** une um ecossistema inteiro de ferramentas e serviços modernos em um único fluxo de trabalho simples para criar locais e aplicativos de alto desempenho.                                                                                               |
 | https://firebase.google.com | ** Firebase ** Ajuda você a criar e executar aplicativos de sucesso. É apoiado pelo Google e amado pelas equipes de desenvolvimento de aplicativos - desde startups até empresas globais |
 | https://aws.amazon.com | ** A Amazon ** Web Services oferece um amplo conjunto de produtos e serviços globais baseados em nuvem, ajudam as organizações a se mover mais rápido, reduzir os custos de TI e escalar.                                                                                              |
-| https://pages.github.com | ** Github ** Páginas são sites para você e seus projetos. Ele é hospedado diretamente do seu repositório do GitHub. Você só precisa editar, empurrar e suas mudanças estão vivas.                                                                            |
-| https://vercel.com | ** Vercel ** combina a melhor experiência do desenvolvedor com um foco obsessivo no desempenho do usuário final. Permite que as equipes de front -end façam o seu melhor trabalho. Você só precisa desenvolver visualização e envio.                                                 |
-| https://surge.sh | ** Surge ** é uma publicação na Web estática para desenvolvedores de front-end. É uma publicação simples e de comando único. Ele publica HTML, CSS e JS gratuitamente, sem sair da linha de comando.                                                           |
-| https://render.com | ** Render ** é uma nuvem unificada para criar e executar todos os seus aplicativos e sites com certificados TLS gratuitos, uma CDN global, proteção DDoS, redes privadas e automaticamente implanta do Git.                                                              |
-| https://docs.gitlab.com/ee/user/project/pages/ | ** Páginas GitLab ** - Sites estáticos diretamente de um repositório no GitLab. Para publicar um site, pode -se usar qualquer gerador de site estático ou qualquer HTML, CSS e JavaScript escrito.                                                            |
-| https://stormkit.io | ** Stormkit ** pode gerenciar facilmente sua infraestrutura de front -end. Ele se integra perfeitamente ao seu fluxo git. Ajuda você a criar, implantar e dimensionar seus aplicativos da web sem problemas.                                                                        |
-| https://www.digitalocean.com/ | ** Digitalocean ** possui os serviços de computação em nuvem necessários, com preços previsíveis, documentação robusta e escalabilidade para apoiar seu crescimento em qualquer estágio. É uma nuvem mais simples para os desenvolvedores mais felizes terem melhores resultados.                  |
+| https://pages.github.com | ** Github ** Páginas são sites para você e seus projetos. Ele é hospedado diretamente do seu repositório do GitHub. Você só precisa editar, enviar e suas alterações estão ativas.                                                                            |
+| https://vercel.com | ** Vercel ** combina a melhor experiência do desenvolvedor com um foco obsessivo no desempenho do usuário final. Permite que as equipes de front-end façam seu melhor trabalho. Você só precisa desenvolver visualização e envio. |
+| https://surge.sh | ** Surge ** é uma publicação na Web estática para desenvolvedores de front-end. É uma publicação simples e de comando único. Ele publica HTML, CSS e JS gratuitamente, sem sair da linha de comando. |
+| https://render.com | ** Render ** é uma nuvem unificada para criar e executar todos os seus aplicativos e sites com certificados TLS gratuitos, uma CDN global, proteção DDoS, redes privadas e implantação automática do Git.                                                              |
+| https://docs.gitlab.com/ee/user/project/pages/ | ** Páginas GitLab ** - Sites estáticos diretamente de um repositório no GitLab. Para publicar um site, você pode usar qualquer gerador de site estático ou qualquer HTML, CSS e JavaScript escrito.                                                            |
+| https://stormkit.io | ** Stormkit ** pode gerenciar facilmente sua infraestrutura de front-end. Ele se integra perfeitamente ao seu fluxo git. Ajuda você a criar, implantar e dimensionar seus aplicativos da web sem problemas.                                                                        |
+| https://www.digitalocean.com/ | ** Digitalocean ** possui os serviços de computação em nuvem necessários, com preços previsíveis, documentação robusta e escalabilidade para apoiar seu crescimento em qualquer estágio. É uma nuvem mais simples para os desenvolvedores mais felizes terem melhores resultados. |
 | https://www.000webhost.com/ | ** 000WebHosTApp ** É hospedagem de sites de custo zero com PHP, MYSQL, CPALEN e sem anúncios. Seus servidores usam firewalls avançados e incluem proteção DDoS.                                                                                               |
 | https://infinityfree.net/ | ** InfinityFree ** é totalmente apresentado, hospedagem de sites completamente gratuita com PHP, MySQL e nenhum anúncio no local.                                                                                                                                        |
-| https://pages.cloudflare.com/ | ** CloudFlare Pages ** é uma plataforma Jamstack para desenvolvedores de front -end colaborarem e implantarem sites. Oferece largura de banda ilimitada gratuita.                                                                                                    |
+| https://pages.cloudflare.com/ | ** CloudFlare Pages ** é uma plataforma Jamstack para desenvolvedores de front-end colaborarem e implantarem sites. Oferece largura de banda ilimitada gratuita.                                                                                                    |
 | https://supabase.com | ** SUPABASE ** é uma alternativa de Firebase de código aberto. Inicie seu projeto com um banco de dados PostGres, autenticação, APIs instantâneas, RealTime | assinaturas e armazenamento.
-| https://railway.app/ | ** Railway ** é uma plataforma de infraestrutura onde você pode provisionar a infraestrutura, desenvolver -se com essa infraestrutura localmente e depois implantar na nuvem.                                                                                      |
-| https://fly.io/ | ** Fly ** é uma plataforma para executar aplicativos e bancos de dados de pilha completa perto de seus usuários. Estamos martelando isso desde 2017 e achamos ótimo.                                                                            |
+| https://railway.app/ | ** Railway ** é uma plataforma de infraestrutura onde você pode provisionar a infraestrutura, desenvolver com essa infraestrutura localmente e depois implantar na nuvem.                                                                                      |
+| https://fly.io/ | ** Fly ** é uma plataforma para executar aplicativos e bancos de dados de pilha completa perto de seus usuários. Estamos trabalhando nisso desde 2017 e achamos ótimo.                                                                            |
 | https://kinsta.com/static-site-hosting/ | ** Kinsta ** fornece hospedagem em nuvem totalmente em um para aplicativos da Web, bancos de dados, sites do WordPress e sites estáticos. Implantações rápidas e seguras do Github, Gitlab e Bitbucket para uma infraestrutura alimentada pelo Google Cloud Platform e Cloudflare. |
-| https://fleek.co/ | ** Fleek ** facilita a criação de sites e aplicativos na nova Web Open: resistente à permissão, sem confiança, resistente à censura e livre de porteiros centralizados.                                                                                  |
+| https://fleek.co/ | ** Fleek ** facilita a criação de sites e aplicativos na nova Web Aberta: resistente à permissão, sem confiança, resistente à censura e livre de gatekeepers centralizados.                                                                                  |
 | https://edgeone.ai/products/pages | ** Páginas Edgeone ** permite criar e lançar sites impressionantes rapidamente, aproveitando a tecnologia Edge para um desempenho ideal.                                                                                  |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
-## Plataformas de aprendizado:
+## Plataformas de aprendizagem:
 
 | Site |
 |------------------------------------------------|
@@ -114,7 +114,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://www.interviewbit.com/ |
 | https://css-tricks.com/ |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Plataformas de desafio de codificação:
 
@@ -147,7 +147,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://www.codingninjas.com |
 | https://divize.io/challenges |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Plataformas freelancers:
 
@@ -166,7 +166,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://gun.io |
 | https://www.refrens.com |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Trabalhos remotos:
 
@@ -200,7 +200,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://www.realworkfromanywhere.com |
 | https://www.moaijobs.com |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Fotos:
 
@@ -218,7 +218,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://www.splitshire.com |
 | https://freeforCommerCialuse.net |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Vídeos:
 
@@ -237,7 +237,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://photostockeditor.com |
 | https://www.clipstill.com |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 
 ## Ilustrações:
@@ -258,7 +258,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://www.artify.co/vector-lustrações |
 | https://cocomaterial.com/ |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Ícones:
 
@@ -295,7 +295,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://www.3dicons.com/ |
 | https://flowbite.com/icons/ |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Fontes:
 
@@ -311,7 +311,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://www.fontpair.co |
 | https://fonts.bunny.net |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Canais do YouTube:
 
@@ -353,7 +353,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | [Corey Schafer](https://www.youtube.com/@coreyms)                             |
 | [Código com Harry](https://www.youtube.com/@CodeWithHarry)                     |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Podcasts:
 
@@ -372,12 +372,12 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | [Rádio Jamstack](https://www.heavybit.com/library/podcasts/jamstack-radio/) |
 | [Devdiscuss](https://dev.to/devdiscuss)                                     |
 | [Devnews](https://dev.to/devnews)                                           |
-| [Reaja o rádio nativo](https://reactnativeradio.com/)                         |
+| [Reaja ao rádio nativo](https://reactnativeradio.com/)                         |
 | [Html todas as coisas](https://podcast.htmlallthethings.com/)                |
 | [O podcast CSS](https://thecsspodcast.libsyn.com/)                        |
 | [O podcast de pilha de transbordamento](https://stackoverflow.blog/podcast/)           |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Editores de código:
 
@@ -394,7 +394,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | [Frota](https://www.jetbrains.com/fleet/)    |
 | [Codelobster](https://codelobster.com/)      |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Paletas de cores:
 
@@ -417,7 +417,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://materialui.co/colors/ |
 | https://uicolors.app |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Inspiração da interface do usuário:
 
@@ -432,7 +432,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://tympanus.net/codrops |
 | https://landings.dev |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Documentos:
 
@@ -443,7 +443,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://w3docs.com |
 | https://devdocs.io |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Bibliotecas de animação:
 
@@ -469,7 +469,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | [Swiperjs](https://swiperjs.com)                               |
 | [Movimento um](https://motion.dev)                               |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Gráficos:
 
@@ -482,13 +482,13 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | [Charts.css](https://chartscss.org/)   |
 | [ECHARTS](https://echarts.apache.org/) |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Extensões Chrome:
 
 | Site |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Desenvolvedor da Web](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                                          |
+| [Desenvolvedor Web](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                                          |
 | [CSSVIEWER](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)                                                  |
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                                                |
 | [JSONVIEW](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                                                    |
@@ -504,7 +504,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | [Hackertab.dev - Todas as notícias do desenvolvedor em 1 guia](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp) |
 | [Ferramentas de desenvolvedor de vue](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)                                   |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Ferramentas de otimização de sites:
 
@@ -519,7 +519,7 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | [Seotester](https://seotest.me/)                        |
 | [Cors-tester](https://cors-error.dev/cors-tester/)      |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Modelos HTML/CSS/JavaScript:
 
@@ -538,89 +538,89 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 | https://builtatlightspeed.com |
 | https://web3templates.com |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Boletins:
 
 | Site | Tópicos |
 |----------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| [Dicas de Tech Marko](https://markodenic.com/newsletter/)                                  | Useful tech tips, directly to your inbox.                       |
-| [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)       | Front-end and UX.                                               |
-| [Foco do front -end](https://frontendfoc.us/)                                              | HTML, CSS, WebGL, Canvas, browser tech, and more.               |
+| [Dicas de Tech Marko](https://markodenic.com/newsletter/)                                  | Dicas úteis de tecnologia, diretamente na sua caixa de entrada.                       |
+| [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)       | Front-end e UX.                                               |
+| [Foco do front -end](https://frontendfoc.us/)                                              | HTML, CSS, WebGL, Canvas, tecnologia de navegadores e muito mais.               |
 | [CSS semanalmente](https://css-weekly.com/)                                                  | CSS.                                                            |
 | [JavaScript semanalmente](https://javascriptweekly.com/)                                     | JavaScript.                                                     |
-| [Acessibilidade semanalmente](https://a11yweekly.com/)                                        | Accessibility.                                                  |
-| [Jamstacked](https://jamstack.email/)                                                  | JAMstack ecosystem.                                             |
-| [Newsletter de UI Dev](https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/) | User Interface development.                                     |
-| [Vá fazer as coisas](https://gomakethings.com/)                                            | Daily Vanilla JavaScript.                                       |
+| [Acessibilidade semanalmente](https://a11yweekly.com/)                                        | Acessibilidade.                                                  |
+| [Jamstacked](https://jamstack.email/)                                                  | Ecossistema JAMstack.                                             |
+| [Newsletter de UI Dev](https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/) | Desenvolvimento de interface do usuário.                                     |
+| [Vá fazer as coisas](https://gomakethings.com/)                                            | JavaScript Vanilla diário.                                       |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Geradores CSS:
 
 | Site | Descrição |
 |---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Geradores de GlassMorfismo](https://markodenic.com/tools/glassmorphism-css-generator/) | Use Glassmorphism Generator to create a stunning effect for your projects.                                                                                                            |
-| [Gerador de botões](https://markodenic.com/tools/buttons-generator/)                  | An online gallery of 100+ button designs you can easily copy and use in your projects.                                                                                                |
-| [Grade de layoutit](https://grid.layoutit.com/)                                           | Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.                                         |
-| [Editor de gradiente CSS](https://cssgradienteditor.com/)                                 | You may only need this tool for creating CSS gradients and patterns.                                                                                                                  |
-| [Gerador de carregadores hola -svg](https://holasvg.com/loaders/)                            | SVG Loaders Generator with Sass and SMIL options                                                                                                                                      |
-| [Divisor de forma](https://www.shapedivider.app/)                                        | A free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project.                                                          |
-| [Padrões de beaubus](https://patterns.beaubus.com/)                                     | 150+ free SVG patterns and CSS background images generator                                                                                                                            |
-| [9lementos - raio de fronteira sofisticado](https://9elements.github.io/fancy-border-radius/)   | 9elements is a little tool, that helps you create your very own organic shape. When you use four/eight values specifying border-radius in CSS, you can create organic looking shapes. |
-| [Blobmaker](https://www.blobmaker.app/)                                               | Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.                                |
-| [Toptal CSS3 Generator](https://www.toptal.com/developers/css3maker)                  | A free online tool for quickly generating CSS3 snippets, such as for effects, gradients and animations.                                                                               |
-| [Neumorfismo](https://neumorphism.io/)                                                | A free online tool for designing attractive UI with colors, gradients and shadows..                                                                                                   |
-| [Scrollbar.app](https://scrollbar.app/)                                               | A simple online tool for creating custom scrollbars for the web.                                                                                                                      |
-| [Código Magic](https://code-magic.vercel.app/)                                          | A free tool to make CSS easier by generating Tailwind and CSS code for effects, gradients and inputs                                                                                  |
+| [Geradores de GlassMorfismo](https://markodenic.com/tools/glassmorphism-css-generator/) | Use o Glassmorphism Generator para criar um efeito impressionante para seus projetos.                                                                                                            |
+| [Gerador de botões](https://markodenic.com/tools/buttons-generator/)                  | Uma galeria online com mais de 100 designs de botões que você pode copiar e usar facilmente em seus projetos.                                                                                                |
+| [Grade de layoutit](https://grid.layoutit.com/)                                           | Crie rapidamente layouts para a web e obtenha códigos HTML e CSS. Aprenda CSS Grid visualmente e crie layouts para a web com nosso Gerador de CSS Grid interativo.                                         |
+| [Editor de gradiente CSS](https://cssgradienteditor.com/)                                 | Você só precisará desta ferramenta para criar gradientes e padrões CSS.                                                                                                                  |
+| [Gerador de carregadores hola -svg](https://holasvg.com/loaders/)                            | Gerador de carregadores SVG com opções Sass e SMIL |
+| [Divisor de forma](https://www.shapedivider.app/)                                        | Uma ferramenta gratuita para facilitar aos designers e desenvolvedores a exportação de um belo divisor de formas SVG para seus projetos mais recentes.                                                          |
+| [Padrões de beaubus](https://patterns.beaubus.com/)                                     | Mais de 150 padrões SVG gratuitos e gerador de imagens de fundo CSS                                                                                                                            |
+| [9lementos - raio de fronteira sofisticado](https://9elements.github.io/fancy-border-radius/)   | 9elements é uma pequena ferramenta que ajuda você a criar sua própria forma orgânica. Ao usar quatro/oito valores especificando o raio da borda em CSS, você pode criar formas com aparência orgânica. |
+| [Blobmaker](https://www.blobmaker.app/) | Blobmaker é uma ferramenta de design generativo gratuita criada com 💕 pela z creative labs para ajudá-lo a criar rapidamente formas SVG aleatórias, únicas e com aparência orgânica. |
+| [Toptal CSS3 Generator](https://www.toptal.com/developers/css3maker)                  | Uma ferramenta online gratuita para gerar rapidamente trechos de CSS3, como efeitos, gradientes e animações.                                                                               |
+| [Neumorfismo](https://neumorphism.io/)                                                | Uma ferramenta online gratuita para projetar interfaces de usuário atraentes com cores, gradientes e sombras. |
+| [Scrollbar.app](https://scrollbar.app/)                                               | Uma ferramenta online simples para criar barras de rolagem personalizadas para a web. |
+| [Código Magic](https://code-magic.vercel.app/)                                          | Uma ferramenta gratuita para facilitar o CSS, gerando código Tailwind e CSS para efeitos, gradientes e entradas.                                                                                  |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Jogos CSS:
 
 | Site | Descrição |
 |---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Flexbox Froggy](https://flexboxfroggy.com/)                                          | Flexbox Froggy is an interactive game that helps users learn and practice the **CSS Flexbox layout**.                                                                                 |
-| [Cavaleiros da tabela Flexbox](https://knightsoftheflexboxtable.com/)                 | Set of challenges where we must use **Flexbox properties** to position and align elements on the screen to complete a medieval-themed game layout.                                    |
-| [Jardim da grade](https://cssgridgarden.com/)                                             | A Grid Garden is an interactive game that helps users learn and practice the **CSS Grid layout**.                                                                                     |
-| [Ataque de grade](https://codingfantasy.com/games/css-grid-attack/play)                   | Learn and practice the **CSS Grid layout**                                                                                                                                            |
-| [CSS Diner](https://flukeout.github.io/)                                              | Fun and interactive way to learn how to select elements on a web page using CSS.                                                                                                      |
-| [Adivinhe CSS](https://www.guess-css.app/)                                               | Another Fun and interactive way to learn CSS.                                                                                                                                         |
-| [CSS Speedrun](https://css-speedrun.netlify.app/)                                     | A CSS speedrun is a challenge to see how quickly a developer can complete a task using only CSS (Cascading Style Sheets).                                                             |
-| [Anchoreum](https://anchoreum.com/)                                                   | A game for learning CSS anchor positioning.                                                                                                                                           |
+| [Flexbox Froggy](https://flexboxfroggy.com/)                                          | Flexbox Froggy é um jogo interativo que ajuda os usuários a aprender e praticar o **layout CSS Flexbox**.                                                                                 |
+| [Cavaleiros da tabela Flexbox](https://knightsoftheflexboxtable.com/)                 | Conjunto de desafios onde devemos usar as **propriedades Flexbox** para posicionar e alinhar elementos na tela para completar um layout de jogo com tema medieval.                                    |
+| [Jardim da grade](https://cssgridgarden.com/)                                             | Um Jardim da Grade é um jogo interativo que ajuda os usuários a aprender e praticar o **layout CSS Grid**.                                                                                     |
+| [Ataque de grade](https://codingfantasy.com/games/css-grid-attack/play)                   | Aprenda e pratique o **layout CSS Grid**                                                                                                                                            |
+| [CSS Diner](https://flukeout.github.io/)                                              | Uma maneira divertida e interativa de aprender a selecionar elementos em uma página da web usando CSS.                                                                                                      |
+| [Adivinhe CSS](https://www.guess-css.app/)                                               | Outra maneira divertida e interativa de aprender CSS.                                                                                                                                         |
+| [CSS Speedrun](https://css-speedrun.netlify.app/)                                     | Um speedrun CSS é um desafio para ver com que rapidez um desenvolvedor consegue completar uma tarefa usando apenas CSS (Cascading Style Sheets).                                                             |
+| [Anchoreum](https://anchoreum.com/)                                                   | Um jogo para aprender o posicionamento de âncoras em CSS.                                                                                                                                           |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Ferramentas online:
 
 | Site | Descrição |
 |----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| [Prm](https://prm.pushkaryadav.in/)                                              | Project & Profile Readme Maker : easiest way to create amazing readme's for your github projects and profile |
-| [Gerador de código QR](https://markodenic.com/tools/qr-code-generator/)             | Use QR code generator to easily create a QR code for your project.                                           |
-| [Verificador do Google Analytics](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                        |
-| [Arte de gradiente](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                           |
-| [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                   |
-| [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                |
-| [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
-| [JSONING](https://jsoning.com/)                                                  | A suite of JSON tools, including a formatter, validator, converter, generator, merger, and Mock API          |
-| [Ferramentas de marcação](https://markdowntools.com)                                      | A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown                  |
-| [OnlineInterview.io](https://onlineinterview.io/)                                | Free interviewing platform with shared code editor, drawing board and video chat.                            |
-| [Rtcd.io](https://rtcd.io/)                                                      | A simple yet powerful online toolbox for encoding, encryption, data conversion, image processing and more.   |
-| [Alfavids.io](https://alphavids.io/)                                            | Transparent WEBM to MP4 converter.                                                                           |
-| [Styleshift](https://styleshift.shefali.dev/)                                            | CSS to Tailwind converter, designed to seamlessly transform your custom CSS into efficient, responsive Tailwind CSS code.                                                                        |
-[⬆ de volta ao topo](#table-of-contents)
+| [Prm](https://prm.pushkaryadav.in/)                                              | Project & Profile Readme Maker: a maneira mais fácil de criar arquivos readme incríveis para seus projetos e perfil no GitHub |
+| [Gerador de código QR](https://markodenic.com/tools/qr-code-generator/)             | Use o gerador de código QR para criar facilmente um código QR para seu projeto.                                           |
+| [Verificador do Google Analytics](https://www.statsglitch.com/google-analytics-checker) | Verifique seu projeto para garantir que a tag do Google Analytics esteja configurada corretamente.                                        |
+| [Arte de gradiente](https://gra.dient.art/)                                           | Um editor avançado de gradientes CSS com camadas, ferramentas de design e armazenamento gratuito na nuvem                           |
+| [JSONT](https://www.jsont.run/)                                                  | Uma ferramenta simples e poderosa para formatação JSON                                                                   |
+| [JSON Crack](https://jsoncrack.com/)                                             | Uma ferramenta simples para visualizar código JSON em uma estrutura em árvore organizada                                                |
+| [Codepng](https://codepng.app/)                                                  | Converta seu código-fonte em imagens incríveis que podem ser compartilhadas                                                       |
+| [JSONING](https://jsoning.com/)                                                  | Um conjunto de ferramentas JSON, incluindo um formatador, validador, conversor, gerador, mesclador e API simulada          |
+| [Ferramentas de marcação](https://markdowntools.com)                                      | Um conjunto de ferramentas gratuitas para converter arquivos HTML, CSV, PDF e Excel de e para Markdown                  |
+| [OnlineInterview.io](https://onlineinterview.io/)                                | Plataforma gratuita de entrevistas com editor de código compartilhado, quadro de desenho e chat de vídeo. |
+| [Rtcd.io](https://rtcd.io/)                                                      | Uma caixa de ferramentas online simples, mas poderosa, para codificação, criptografia, conversão de dados, processamento de imagens e muito mais. |
+| [Alfavids.io](https://alphavids.io/)                                            | Conversor transparente de WEBM para MP4.                                                                           |
+| [Styleshift](https://styleshift.shefali.dev/)                                            | Conversor de CSS para Tailwind, projetado para transformar perfeitamente seu CSS personalizado em código Tailwind CSS eficiente e responsivo.                                                                        |
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Componentes da interface do usuário:
 
 | Site | Descrição |
 |------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| [Flowbite](https://flowbite.com/)        | Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements |
-| [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                       |
-| [Flyonui](https://flyonui.com/)          | The Easiest Components Library For Tailwind CSS.                                                    |
-| [Bootstrap de Ayro UI](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                  |
-| [UIVERSE](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                           |
-| [shadcn/ui](https://ui.shadcn.com/)      | Open-Source UI components for React projects, that you can easily copy and paste into your apps.    |
-| [Ui sem cabeça](https://headlessui.com/)   | Completely unstyled, fully accessible UI components, designed to integrate with Tailwind CSS.       |
+| [Flowbite](https://flowbite.com/)        | Biblioteca de componentes de interface do usuário de código aberto baseada em Tailwind CSS com modo escuro e elementos interativos |
+| [TailGrids](https://tailgrids.com/)      | Mais de 300 componentes e seções de interface do usuário Tailwind CSS gratuitos e premium |
+| [Flyonui](https://flyonui.com/)          | A biblioteca de componentes mais fácil para Tailwind CSS. |
+| [Bootstrap de Ayro UI](https://ayroui.com/) | Componentes, trechos e seções de interface do usuário Bootstrap para aplicativos web modernos |
+| [UIVERSE](https://uiverse.io)            | Elementos de interface do usuário de código aberto criados com CSS e HTML, onde qualquer pessoa pode contribuir. |
+| [shadcn/ui](https://ui.shadcn.com/)      | Componentes de interface do usuário de código aberto para projetos React, que você pode copiar e colar facilmente em seus aplicativos.    |
+| [Ui sem cabeça](https://headlessui.com/)   | Componentes de interface do usuário totalmente sem estilo e totalmente acessíveis, projetados para se integrar com Tailwind CSS.       |
 
 [⬆ de volta ao topo](#table-of-contents)
 
@@ -628,24 +628,24 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 
 | Site | Descrição |
 |-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Vuetify](https://vuetifyjs.com/)                         | Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features.                                                                                                                                                                                                                                                            |
-| [Material de vue](https://www.creative-tim.com/vuematerial/) | Simple, lightweight and built exactly according to the Google Material Design specs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| [Bootstrapvue](https://bootstrap-vue.org/)                | BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.                                                                                                                                                                                                                                                                                                                                                                                                    |
-| [Quasar Framework](https://quasar.dev/)                   | Quasar is an MIT licensed open-source Vue.js based framework. It enables web developers to create responsive++ websites/apps in various formats: SPAs, SSR (+ optional PWA client takeover), PWAs, BEX, Mobile Apps (Android, iOS, etc.), and Multi-platform Desktop Apps (using Electron). Quasar's motto is "write code once, deploy it as a website, Mobile App, and/or Electron App." It provides a state-of-the-art CLI and efficient Quasar web components, eliminating the need for additional heavy libraries like Hammer.js, Moment.js, or Bootstrap. |
+| [Vuetify](https://vuetifyjs.com/)                         | Vuetify é uma estrutura de componentes semânticos para Vue. Seu objetivo é fornecer componentes limpos, semânticos e reutilizáveis que facilitam a construção de sua aplicação. Crie aplicações incríveis com o poder do Vue, Material Design e uma enorme biblioteca de componentes e recursos lindamente criados.                                                                                                                                                                                                                                                            |
+| [Material de vue](https://www.creative-tim.com/vuematerial/) | Simples, leve e construído exatamente de acordo com as especificações do Google Material Design.|
+| [Bootstrapvue](https://bootstrap-vue.org/)                | O BootstrapVue oferece uma das implementações mais completas do Bootstrap v4 para Vue.js. Com marcação de acessibilidade WAI-ARIA abrangente e automatizada.                                                                                                                                                                                                                                                                                                                                                                            |
+| [Quasar Framework](https://quasar.dev/)                   | Quasar é uma estrutura de código aberto licenciada pelo MIT baseada em Vue.js. Ela permite que desenvolvedores web criem sites/aplicativos responsivos++ em vários formatos: SPAs, SSR (+ aquisição opcional de cliente PWA), PWAs, BEX, aplicativos móveis (Android, iOS, etc.) e aplicativos de desktop multiplataforma (usando Electron). O lema do Quasar é “escreva o código uma vez, implante-o como um site, aplicativo móvel e/ou aplicativo Electron”. Ele fornece uma CLI de última geração e componentes web Quasar eficientes, eliminando a necessidade de bibliotecas pesadas adicionais como Hammer.js, Moment.js ou Bootstrap. |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Reactar as bibliotecas da interface do usuário:
 
 | Site | Descrição |
 |-------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| [Material-Ui](https://mui.com/core/)                  | Simple and customizable component library to build faster, beautiful, and more accessible React applications.                   |
-| [Projeto de formiga](https://ant.design/)                     | An enterprise-class UI design language and React UI library.                                                                    |
-| [Reaja bootstrap](https://react-bootstrap.github.io/) | Bootstrap components built with React.                                                                                          |
-| [A interface do usuário semântica reage](https://react.semantic-ui.com/)   | Semantic UI React is the official React integration for Semantic UI .                                                           |
-| [Ui de chakra](https://chakra-ui.com/)                   | A simple, modular and accessible component library that gives you the building blocks you need to build your React applications |
-| [Base nativa](https://nativebase.io/)                  | NativeBase is an accessible, utility-first component library that helps you build consistent UI across Android, iOS and Web.    |
-| [Prime React](https://primereact.org/)                | The ultimate collection of design-agnostic, flexible and accessible React UI Components.                                        |
+| [Material-Ui](https://mui.com/core/)                  | Biblioteca de componentes simples e personalizável para criar aplicativos React mais rápidos, bonitos e acessíveis. |
+| [Projeto de formiga](https://ant.design/)                     | Uma linguagem de design de interface do usuário de nível empresarial e biblioteca React UI. |
+| [Reaja bootstrap](https://react-bootstrap.github.io/) | Componentes Bootstrap criados com React.                                                                                          |
+| [A interface do usuário semântica reage](https://react.semantic-ui.com/)   | Semantic UI React é a integração oficial do React para Semantic UI.                                                           |
+| [Ui de chakra](https://chakra-ui.com/)                   | Uma biblioteca de componentes simples, modular e acessível que fornece os blocos de construção necessários para criar suas aplicações React |
+| [Base nativa](https://nativebase.io/)                  | NativeBase é uma biblioteca de componentes acessível e voltada para a utilidade que ajuda a criar uma interface do usuário consistente no Android, iOS e na Web.    |
+| [Prime React](https://primereact.org/)                | A coleção definitiva de componentes React UI flexíveis, acessíveis e independentes de design.                                        |
 
 [⬆ topo](#README.md)
 
@@ -653,23 +653,23 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 
 | Site | Descrição |
 |---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [Taiga ui](https://taiga-ui.dev/)                 | A powerful set of open source components for Angular                                                               |
-| [Primeng](https://www.primefaces.org/primeng/)    | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
-| [Material angular](https://material.angular.io/)  | Angular Material is a UI library component developed by Google in 2014.                                            |
+| [Taiga ui](https://taiga-ui.dev/)                 | Um poderoso conjunto de componentes de código aberto para Angular |
+| [Primeng](https://www.primefaces.org/primeng/)    | Biblioteca de componentes de interface do usuário Angular com componentes elegantes, de alto desempenho, acessíveis e totalmente personalizáveis. |
+| [Material angular](https://material.angular.io/)  | Angular Material é uma biblioteca de componentes de interface do usuário desenvolvida pelo Google em 2014.                                            |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
 ## Sustentabilidade
 
 | Site | Descrição |
 |---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [Baliza](https://digitalbeacon.co)                                          | Web page carbon calculator to help estimate and lower the carbon emissions of web pages
-| [Site Carbon](https://websitecarbon.com)                                 | The first web page carbon calculator
-| [ECOGRADER](https://ecograder.com)                                          | Web page carbon calculator with additional information on UX
-| [Diretrizes de sustentabilidade da Web](https://w3c.github.io/sustainableweb-wsg/)  | Sustainable design guidelines produced by W3C
-| [Web design sustentável](https://sustainablewebdesign.org/)                 | Design guidelines put together by a community of designers lead by Wholegrain Digital and MightyBytes
-| [A Fundação Green Web](https://www.thegreenwebfoundation.org/)          | A database of web hosts that use renewable energy or are carbon neutral through offsets also authors of CO2.js
-| [Padrão de carbono tecnológico](https://www.techcarbonstandard.org/)                 | A standardised model of tech emissions to help map out emissions created by tech within an organisation - touches on web and Saas
+| [Baliza](https://digitalbeacon.co)                                          | Calculadora de carbono para páginas da Web para ajudar a estimar e reduzir as emissões de carbono das páginas da Web
+| [Site Carbon](https://websitecarbon.com)                                 | A primeira calculadora de carbono para páginas da Web
+| [ECOGRADER](https://ecograder.com)                                          | Calculadora de carbono para páginas da Web com informações adicionais sobre UX
+| [Diretrizes de sustentabilidade da Web](https://w3c.github.io/sustainableweb-wsg/)  | Diretrizes de design sustentável produzidas pelo W3C
+| [Web design sustentável](https://sustainablewebdesign.org/)                 | Diretrizes de design elaboradas por uma comunidade de designers liderada pela Wholegrain Digital e MightyBytes
+| [A Fundação Green Web](https://www.thegreenwebfoundation.org/)          | Um banco de dados de hosts da web que utilizam energia renovável ou são neutros em carbono através de compensações, também autores do CO2.js
+| [Padrão de carbono tecnológico](https://www.techcarbonstandard.org/)                 | Um modelo padronizado de emissões tecnológicas para ajudar a mapear as emissões criadas pela tecnologia dentro de uma organização - aborda a web e Saas
 
 
 [⬆ topo](#README.md)
@@ -678,23 +678,23 @@ Originalmente criado por [`Marko`](https://markodenic.com) no [Recursos de Desen
 
 | Site | Descrição |
 |-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [MDB: crachás de Markdwon](https://mdb.pushkaryadav.in/)            | Generate amazing svg markdown badges within few clicks                                             |
-| [Shortner de URL](https://cliow.com)                              | URL shortener. No login required.                                                                  |
-| [Pré -visualização do Markdown](https://freecodetools.org/markdown-preview/) | Markdown Editor with instant preview using GitHub CSS.                                             |
-| [Questionário JavaScript](https://javascriptquiz.com)                   | JavaScript Quiz - Check your knowledge by having fun.                                              |
-| [Cookiebubble](https://cookiebubble.netlify.app)                | The easy way to inform users that your website is using cookies.                                   |
-| [Atualizações do desenvolvedor](https://www.developerupdates.com)           | Keeps you updated one everything going on in the software developement world                       |
-| [Editor Boxy SVG](https://boxy-svg.com/)                        | SVG Editing Tool - Here you can easily edit and save any SVG file                                  |
-| [CSSREPO](https://cssrepo.com/)                                 | A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS |
-| [Pesquisador da web](https://websearcher.vercel.app/)                 | Create Open Graph, Twitter and basic meta tags easily                                              |
-| [Makemeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                  |
-| [PerfectBugreport.io](https://perfectbugreport.io/)             | A simple checklist of the essential items to include in bug reports.                               |
-| [Vue Cheatsheet](https://vue-cheatsheet.themeselection.com/)    | an interactive cheatsheet of Vue, Vue Router, and Pinia.                                           |
+| [MDB: crachás de Markdwon](https://mdb.pushkaryadav.in/)            | Gere incríveis crachás em svg com apenas alguns cliques |
+| [Encurtador de URL](https://cliow.com)                              | Encurtador de URL. Não é necessário fazer login.                                                                  |
+| [Pré-visualização do Markdown](https://freecodetools.org/markdown-preview/) | Editor Markdown com pré-visualização instantânea usando GitHub CSS.                                             |
+| [Questionário JavaScript](https://javascriptquiz.com)                   | Quiz JavaScript - Teste seus conhecimentos enquanto se diverte.                                              |
+| [Cookiebubble](https://cookiebubble.netlify.app)                | A maneira fácil de informar aos usuários que seu site está usando cookies.                                   |
+| [Atualizações do desenvolvedor](https://www.developerupdates.com)           | Mantém você atualizado sobre tudo o que está acontecendo no mundo do desenvolvimento de software |
+| [Editor Boxy SVG](https://boxy-svg.com/)                        | Ferramenta de edição SVG - Aqui você pode editar e salvar facilmente qualquer arquivo SVG |
+| [CSSREPO](https://cssrepo.com/)                                 | Uma lista selecionada de frameworks incríveis, guias de estilo e outras dicas interessantes para escrever CSS incríveis |
+| [Pesquisador da web](https://websearcher.vercel.app/)                 | Crie facilmente Open Graph, Twitter e meta tags básicas |
+| [Makemeta](https://makemeta.app/)                               | Gere meta tags para o seu site sem esforço! |
+| [PerfectBugreport.io](https://perfectbugreport.io/)             | Uma lista de verificação simples com os itens essenciais a incluir em relatórios de bugs. |
+| [Vue Cheatsheet](https://vue-cheatsheet.themeselection.com/)    | uma folha de dicas interativa sobre Vue, Vue Router e Pinia. |
 
-[⬆ de volta ao topo](#table-of-contents)
+[⬆ voltar ao topo](#table-of-contents)
 
-Made by [Marko](https://markodenic.com).
+Criado por [Marko](https://markodenic.com).
 
-Similar amazing projects: [APIs públicas](https://publicapis.dev) - [Recursos de dev](https://devresourc.es)
+Projetos incríveis semelhantes: [APIs públicas](https://publicapis.dev) - [Recursos de dev](https://devresourc.es)
 
 [Awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
