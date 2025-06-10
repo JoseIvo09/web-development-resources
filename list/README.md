@@ -1,4 +1,4 @@
-# Recursos incríveis de desenvolvimento web! [Awesome][awesome-badge]
+# Recursos incríveis de desenvolvimento web ![Awesome][awesome-badge]
 
 Este é um projeto incrível sobre recursos de desenvolvimento web. ⚡
 
