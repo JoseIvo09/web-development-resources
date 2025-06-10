@@ -1,18 +1,18 @@
-# Awesome Web Development Resources ![Awesome][awesome-badge]
+# Recursos incríveis de desenvolvimento da web ![Awesome][awesome-badge]
 
-This is an awesome project about Web Development resources. ⚡
+Este é um projeto incrível sobre recursos de desenvolvimento da web. ⚡
 
-Resources are added frequently! ⚡
+Os recursos são adicionados com frequência! ⚡
 
-Enjoy! :)
+Aproveitar! :)
 
-If you like this repo, be sure to ⭐ it.
+Se você gosta deste repositório, não se esqueça de.
 
-Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
+Por favor, leia [`contributing guidelines`](./CONTRIBUTING.md) Antes de enviar novos recursos.
 
-Initially created by [Marko](https://markodenic.com) at [Web Development Resources](https://markodenic.com/free-web-development-resources/).
+Inicialmente criado por [Marko](https://markodenic.com) no [Web Development Resources](https://markodenic.com/free-web-development-resources/).
 
 
-Similar amazing projects: [Public APIs](https://publicapis.dev) - [Dev Resources](https://devresourc.es)
+Projetos incríveis semelhantes: [Public APIs](https://publicapis.dev) - [Dev Resources](https://devresourc.es)
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
