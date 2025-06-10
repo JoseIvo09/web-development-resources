@@ -1,17 +1,17 @@
-# Thank you! ❤️
+# Obrigado! ❤️
 
-Thank you for contributing to our awesome resources.
+Obrigado por contribuir com nossos recursos impressionantes.
 
-## Guidelines
+## Diretrizes
 
-- **One item** per Pull Request.
+- **Um item** por solicitação de tração.
 
-- Add a link of the resource in PR comment section.
+- Adicione um link do recurso na seção de comentários de relações públicas.
   
-- Pull request should include a link to the resource and a short description.
+- A solicitação de tração deve incluir um link para o recurso e uma breve descrição.
 
-- The resource **must** be completely free or to have a free tier.
+- O recurso **deve** ser totalmente gratuito ou ter uma camada gratuita.
 
-- If a category consists of 10 or more resources, don't submit any new resources to this category. Consider contributing to other categories instead.
+- Se uma categoria consistir em 10 ou mais recursos, não envie novos recursos para esta categoria. Considere contribuir para outras categorias.
 
-## Thank you! ❤️
+## Obrigado! ❤️
